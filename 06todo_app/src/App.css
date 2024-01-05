@@ -1,4 +1,3 @@
-.taskInp:focus {
+.taskInp:focus, .todo:focus {
   outline: none;
-  box-shadow: none;
 }
