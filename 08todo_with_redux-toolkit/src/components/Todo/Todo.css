@@ -1,0 +1,9 @@
+.trash, .checkbox, .edit {
+    cursor: pointer;
+    width: 20px;
+    height: 20px;
+}
+.arrow {
+    width: 20px;
+    height: 20px;
+}
